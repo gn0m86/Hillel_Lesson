@@ -6,3 +6,6 @@ console.log("num1 ",num1);
 
 let num2 = 5 && "qwerty";
 console.log("num2 ",num2);
+
+let num3 = +'40' + +'2' + "hillel";
+console.log("num3 ",num3);
