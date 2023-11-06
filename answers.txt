@@ -9,3 +9,6 @@ console.log("num2 ",num2);
 
 let num3 = +'40' + +'2' + "hillel";
 console.log("num3 ",num3);
+
+let num4 = '10' - 5 === 6;
+console.log("num4 ",num4);
