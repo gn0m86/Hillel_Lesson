@@ -15,3 +15,42 @@ console.log("num4 ",num4);
 
 let num5 = true + false;
 console.log("num5 ",num5);
+
+let num6 = '4px' - 3;
+console.log("num6 ",num6);
+
+let num7 = '4' - 3;
+console.log("num7 ",num7);
+
+let num8 = '6' + 3 ** 0;
+console.log("num8 ",num8);
+
+let num9 = 12 / '6';
+console.log("num9 ",num9);
+
+let num10 = '10' + (5 === 6);
+console.log("num10 ",num10);
+
+let num11 = null == '';
+console.log("num11 ",num11);
+
+let num12 = 3 ** (9 / 3);
+console.log("num12 ",num12);
+
+let num13 = !!'false' == !!'true';
+console.log("num13 ",num13);
+
+let num14 = 0 || '0' && 1;
+console.log("num14 ",num14);
+
+let num15 = (+null == false) < 1;
+console.log("num15 ",num15);
+
+let num16 = false && true || true;
+console.log("num16 ",num16);
+
+let num17 = false && (false || true);
+console.log("num17 ",num17);
+
+let num18 = (+null == false) < 1 ** 5;
+console.log("num18 ",num18);
