@@ -1,2 +1,5 @@
 let num0 = 'number' + 3 + 3;
 console.log("num0 ",num0);
+
+let num1 = null + 3;
+console.log("num1 ",num1);
