@@ -1,4 +1,4 @@
-/*
+// ДЗ 1
 var fio = {
   "user name": "Misha",
   "2 name": "Lena",
@@ -14,8 +14,8 @@ var fio = {
 fio.getInfo();
 fio.newProperty = "32";
 fio.getInfo();
-*/
 
+// ДЗ 2
 var services = {
   стрижка: "60 грн",
 
