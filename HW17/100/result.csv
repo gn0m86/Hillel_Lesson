@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705257493800,44,delete,200,OK,Thread Group 1-1,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,43,0,27
+1705257493815,30,delete,200,OK,Thread Group 1-14,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,25,0,13
+1705257493801,44,delete,200,OK,Thread Group 1-9,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,40,0,27
+1705257493801,44,delete,200,OK,Thread Group 1-12,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,40,0,27
+1705257493800,44,delete,200,OK,Thread Group 1-3,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,39,0,27
+1705257493801,44,delete,200,OK,Thread Group 1-11,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,40,0,27
+1705257493801,44,delete,200,OK,Thread Group 1-10,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,40,0,27
+1705257493800,44,delete,200,OK,Thread Group 1-5,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,40,0,27
+1705257493800,44,delete,200,OK,Thread Group 1-2,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,41,0,27
+1705257493835,10,delete,200,OK,Thread Group 1-16,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,10,0,1
+1705257493805,40,delete,200,OK,Thread Group 1-13,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,35,0,23
+1705257493800,44,delete,200,OK,Thread Group 1-6,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,40,0,27
+1705257493800,44,delete,200,OK,Thread Group 1-4,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,39,0,27
+1705257493825,20,delete,200,OK,Thread Group 1-15,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,16,0,3
+1705257493801,44,delete,200,OK,Thread Group 1-8,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,39,0,27
+1705257493800,44,delete,200,OK,Thread Group 1-7,text,true,,249,192,17,17,http://127.0.0.1:3001/character/1,40,0,27
+1705257493848,4,update,200,OK,Thread Group 1-4,,true,,145,235,17,17,http://127.0.0.1:3001/character/1,4,0,0
+1705257493849,4,update,200,OK,Thread Group 1-14,,true,,145,235,17,17,http://127.0.0.1:3001/character/1,4,0,0
+1705257493848,5,update,200,OK,Thread Group 1-6,,true,,145,235,17,17,http://127.0.0.1:3001/character/1,5,0,0
+1705257493848,5,update,200,OK,Thread Group 1-11,,true,,145,235,17,17,http://127.0.0.1:3001/character/1,5,0,0
+1705257493848,6,update,200,OK,Thread Group 1-3,,true,,145,235,17,17,http://127.0.0.1:3001/character/1,6,0,0
+1705257493848,6,update,200,OK,Thread Group 1-9,,true,,145,235,17,17,http://127.0.0.1:3001/character/1,6,0,0
+1705257493849,5,update,200,OK,Thread Group 1-15,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,5,0,0
+1705257493848,7,update,200,OK,Thread Group 1-5,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,7,0,0
+1705257493848,8,update,200,OK,Thread Group 1-16,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,8,0,0
+1705257493848,8,update,200,OK,Thread Group 1-12,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,8,0,0
+1705257493849,7,update,200,OK,Thread Group 1-8,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,7,0,0
+1705257493849,8,update,200,OK,Thread Group 1-13,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,8,0,0
+1705257493848,9,update,200,OK,Thread Group 1-2,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,9,0,0
+1705257493849,8,update,200,OK,Thread Group 1-7,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,8,0,0
+1705257493848,10,update,200,OK,Thread Group 1-10,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,10,0,0
+1705257493849,9,update,200,OK,Thread Group 1-1,,true,,145,235,18,18,http://127.0.0.1:3001/character/1,9,0,0
+1705257493846,12,delete,200,OK,Thread Group 1-17,text,true,,249,192,18,18,http://127.0.0.1:3001/character/1,12,0,1
+1705257493853,6,post,200,OK,Thread Group 1-4,text,true,,235,235,18,18,http://127.0.0.1:3001/character,6,0,0
+1705257493853,6,post,200,OK,Thread Group 1-14,text,true,,235,235,18,18,http://127.0.0.1:3001/character,6,0,0
+1705257493853,7,post,200,OK,Thread Group 1-6,text,true,,235,235,18,18,http://127.0.0.1:3001/character,7,0,0
+1705257493853,7,post,200,OK,Thread Group 1-11,text,true,,235,235,18,18,http://127.0.0.1:3001/character,7,0,0
+1705257493854,7,post,200,OK,Thread Group 1-3,text,true,,235,235,18,18,http://127.0.0.1:3001/character,7,0,0
+1705257493854,7,post,200,OK,Thread Group 1-9,text,true,,235,235,18,18,http://127.0.0.1:3001/character,7,0,0
+1705257493855,6,post,200,OK,Thread Group 1-15,text,true,,235,235,18,18,http://127.0.0.1:3001/character,6,0,0
+1705257493855,7,post,200,OK,Thread Group 1-5,text,true,,235,235,18,18,http://127.0.0.1:3001/character,7,0,0
+1705257493856,6,post,200,OK,Thread Group 1-16,text,true,,235,235,18,18,http://127.0.0.1:3001/character,6,0,0
+1705257493856,7,post,200,OK,Thread Group 1-12,text,true,,235,235,18,18,http://127.0.0.1:3001/character,6,0,0
+1705257493856,7,post,200,OK,Thread Group 1-8,text,true,,235,235,18,18,http://127.0.0.1:3001/character,7,0,0
+1705257493857,7,post,200,OK,Thread Group 1-13,text,true,,235,235,19,19,http://127.0.0.1:3001/character,7,0,0
+1705257493857,8,post,200,OK,Thread Group 1-2,text,true,,235,235,19,19,http://127.0.0.1:3001/character,8,0,0
+1705257493859,8,get by id,200,OK,Thread Group 1-4,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,8,0,0
+1705257493860,7,get by id,200,OK,Thread Group 1-14,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,7,0,0
+1705257493860,8,get by id,200,OK,Thread Group 1-6,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,7,0,0
+1705257493860,8,get by id,200,OK,Thread Group 1-11,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,8,0,0
+1705257493861,7,get by id,200,OK,Thread Group 1-3,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,7,0,0
+1705257493861,8,get by id,200,OK,Thread Group 1-9,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,8,0,0
+1705257493861,8,get by id,200,OK,Thread Group 1-15,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,8,0,0
+1705257493862,8,get by id,200,OK,Thread Group 1-5,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,8,0,0
+1705257493863,7,get by id,200,OK,Thread Group 1-16,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,7,0,0
+1705257493863,8,get by id,200,OK,Thread Group 1-12,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,8,0,0
+1705257493864,8,get by id,200,OK,Thread Group 1-8,text,true,,235,127,19,19,http://127.0.0.1:3001/character/1,8,0,0
+1705257493858,14,post,200,OK,Thread Group 1-7,text,true,,235,235,19,19,http://127.0.0.1:3001/character,14,0,0
+1705257493858,15,post,200,OK,Thread Group 1-1,text,true,,235,235,19,19,http://127.0.0.1:3001/character,15,0,0
+1705257493858,16,post,200,OK,Thread Group 1-10,text,true,,235,235,19,19,http://127.0.0.1:3001/character,16,0,0
+1705257493859,15,update,200,OK,Thread Group 1-17,text,true,,235,235,19,19,http://127.0.0.1:3001/character/1,15,0,0
+1705257493855,20,delete,200,OK,Thread Group 1-18,text,true,,249,192,20,20,http://127.0.0.1:3001/character/1,20,0,1
+1705257493867,9,get all,200,OK,Thread Group 1-4,text,true,,281,126,20,20,http://127.0.0.1:3001/characters,9,0,0
+1705257493868,9,get all,200,OK,Thread Group 1-14,text,true,,281,126,20,20,http://127.0.0.1:3001/characters,9,0,0
+1705257493868,10,get all,200,OK,Thread Group 1-6,text,true,,281,126,20,20,http://127.0.0.1:3001/characters,9,0,0
+1705257493868,12,get all,200,OK,Thread Group 1-11,text,true,,281,126,17,17,http://127.0.0.1:3001/characters,12,0,0
+1705257493869,13,get all,200,OK,Thread Group 1-3,text,true,,281,126,16,16,http://127.0.0.1:3001/characters,13,0,0
+1705257493869,13,get all,200,OK,Thread Group 1-9,text,true,,281,126,16,16,http://127.0.0.1:3001/characters,13,0,0
+1705257493870,13,get all,200,OK,Thread Group 1-15,text,true,,281,126,16,16,http://127.0.0.1:3001/characters,13,0,0
+1705257493870,14,get all,200,OK,Thread Group 1-5,text,true,,281,126,13,13,http://127.0.0.1:3001/characters,14,0,0
+1705257493870,15,get all,200,OK,Thread Group 1-16,text,true,,281,126,13,13,http://127.0.0.1:3001/characters,15,0,0
+1705257493871,15,get all,200,OK,Thread Group 1-12,text,true,,281,126,13,13,http://127.0.0.1:3001/characters,15,0,0
+1705257493872,15,get all,200,OK,Thread Group 1-8,text,true,,281,126,11,11,http://127.0.0.1:3001/characters,15,0,0
+1705257493872,16,get by id,200,OK,Thread Group 1-7,text,true,,235,127,10,10,http://127.0.0.1:3001/character/1,16,0,0
+1705257493873,17,get by id,200,OK,Thread Group 1-1,text,true,,235,127,10,10,http://127.0.0.1:3001/character/1,17,0,0
+1705257493874,17,get by id,200,OK,Thread Group 1-10,text,true,,235,127,10,10,http://127.0.0.1:3001/character/1,17,0,0
+1705257493864,28,get by id,200,OK,Thread Group 1-13,text,true,,235,127,10,10,http://127.0.0.1:3001/character/1,28,0,0
+1705257493865,29,get by id,200,OK,Thread Group 1-2,text,true,,235,127,10,10,http://127.0.0.1:3001/character/1,29,0,0
+1705257493889,7,get all,200,OK,Thread Group 1-7,text,true,,281,126,11,11,http://127.0.0.1:3001/characters,7,0,0
+1705257493890,8,get all,200,OK,Thread Group 1-1,text,true,,281,126,11,10,http://127.0.0.1:3001/characters,8,0,0
+1705257493892,7,get all,200,OK,Thread Group 1-10,text,true,,281,126,9,9,http://127.0.0.1:3001/characters,7,0,0
+1705257493893,7,get all,200,OK,Thread Group 1-13,text,true,,281,126,8,8,http://127.0.0.1:3001/characters,7,0,0
+1705257493875,25,post,200,OK,Thread Group 1-17,text,true,,235,235,7,7,http://127.0.0.1:3001/character,25,0,0
+1705257493876,25,update,200,OK,Thread Group 1-18,text,true,,235,235,7,7,http://127.0.0.1:3001/character/1,25,0,0
+1705257493865,37,delete,200,OK,Thread Group 1-19,text,true,,249,192,7,7,http://127.0.0.1:3001/character/1,37,0,1
+1705257493901,3,get by id,200,OK,Thread Group 1-17,text,true,,235,127,7,7,http://127.0.0.1:3001/character/1,3,0,0
+1705257493901,4,post,200,OK,Thread Group 1-18,text,true,,235,235,7,7,http://127.0.0.1:3001/character,4,0,0
+1705257493895,11,get all,200,OK,Thread Group 1-2,text,true,,284,126,8,8,http://127.0.0.1:3001/characters,11,0,0
+1705257493876,31,delete,200,OK,Thread Group 1-20,text,true,,249,192,7,7,http://127.0.0.1:3001/character/1,31,0,1
+1705257493904,5,get all,200,OK,Thread Group 1-17,text,true,,281,126,7,7,http://127.0.0.1:3001/characters,5,0,0
+1705257493905,6,get by id,200,OK,Thread Group 1-18,text,true,,235,127,6,6,http://127.0.0.1:3001/character/1,6,0,0
+1705257493903,9,update,200,OK,Thread Group 1-19,text,true,,235,235,6,6,http://127.0.0.1:3001/character/1,9,0,0
+1705257493885,28,delete,200,OK,Thread Group 1-21,text,true,,249,192,6,6,http://127.0.0.1:3001/character/1,28,0,2
+1705257493911,5,get all,200,OK,Thread Group 1-18,text,true,,278,126,7,7,http://127.0.0.1:3001/characters,5,0,0
+1705257493908,11,update,200,OK,Thread Group 1-20,text,true,,235,235,6,6,http://127.0.0.1:3001/character/1,11,0,0
+1705257493896,25,delete,200,OK,Thread Group 1-22,text,true,,249,192,6,6,http://127.0.0.1:3001/character/1,25,0,1
+1705257493913,9,post,200,OK,Thread Group 1-19,text,true,,235,235,6,6,http://127.0.0.1:3001/character,9,0,0
+1705257493914,10,update,200,OK,Thread Group 1-21,text,true,,235,235,6,6,http://127.0.0.1:3001/character/1,10,0,0
+1705257493906,19,delete,200,OK,Thread Group 1-23,text,true,,249,192,7,7,http://127.0.0.1:3001/character/1,19,0,2
+1705257493923,3,get by id,200,OK,Thread Group 1-19,text,true,,235,127,7,7,http://127.0.0.1:3001/character/1,3,0,0
+1705257493920,9,post,200,OK,Thread Group 1-20,text,true,,235,235,7,7,http://127.0.0.1:3001/character,9,0,0
+1705257493924,5,post,200,OK,Thread Group 1-21,text,true,,235,235,7,7,http://127.0.0.1:3001/character,5,0,0
+1705257493922,7,update,200,OK,Thread Group 1-22,text,true,,235,235,7,7,http://127.0.0.1:3001/character/1,7,0,0
+1705257493925,4,update,200,OK,Thread Group 1-23,text,true,,235,235,7,7,http://127.0.0.1:3001/character/1,4,0,0
+1705257493927,3,get all,200,OK,Thread Group 1-19,text,true,,278,126,7,7,http://127.0.0.1:3001/characters,3,0,0
+1705257493917,13,delete,200,OK,Thread Group 1-24,text,true,,249,192,7,7,http://127.0.0.1:3001/character/1,13,0,2
+1705257493929,4,get by id,200,OK,Thread Group 1-20,text,true,,235,127,6,6,http://127.0.0.1:3001/character/1,4,0,0
+1705257493926,9,delete,200,OK,Thread Group 1-25,text,true,,249,192,7,7,http://127.0.0.1:3001/character/1,9,0,2
+1705257493930,6,post,200,OK,Thread Group 1-22,text,true,,235,235,7,7,http://127.0.0.1:3001/character,6,0,0
+1705257493930,7,get by id,200,OK,Thread Group 1-21,text,true,,235,127,7,7,http://127.0.0.1:3001/character/1,7,0,0
+1705257493930,7,post,200,OK,Thread Group 1-23,text,true,,235,235,7,7,http://127.0.0.1:3001/character,7,0,0
+1705257493930,8,update,200,OK,Thread Group 1-24,text,true,,235,235,7,7,http://127.0.0.1:3001/character/1,8,0,0
+1705257493935,4,update,200,OK,Thread Group 1-25,text,true,,235,235,7,7,http://127.0.0.1:3001/character/1,4,0,0
+1705257493936,3,get by id,200,OK,Thread Group 1-22,text,true,,235,127,7,7,http://127.0.0.1:3001/character/1,3,0,0
+1705257493937,3,get all,200,OK,Thread Group 1-21,text,true,,281,126,7,7,http://127.0.0.1:3001/characters,3,0,0
+1705257493934,6,get all,200,OK,Thread Group 1-20,text,true,,281,126,7,7,http://127.0.0.1:3001/characters,6,0,0
+1705257493939,2,post,200,OK,Thread Group 1-25,text,true,,235,235,5,5,http://127.0.0.1:3001/character,2,0,0
+1705257493939,2,get all,200,OK,Thread Group 1-22,text,true,,284,126,5,5,http://127.0.0.1:3001/characters,2,0,0
+1705257493937,5,get by id,200,OK,Thread Group 1-23,text,true,,235,127,4,4,http://127.0.0.1:3001/character/1,5,0,0
+1705257493938,4,post,200,OK,Thread Group 1-24,text,true,,235,235,4,4,http://127.0.0.1:3001/character,4,0,0
+1705257493935,8,delete,200,OK,Thread Group 1-26,text,true,,249,192,4,4,http://127.0.0.1:3001/character/1,8,0,1
+1705257493941,2,get by id,200,OK,Thread Group 1-25,text,true,,235,127,4,4,http://127.0.0.1:3001/character/1,2,0,0
+1705257493942,2,get all,200,OK,Thread Group 1-23,text,true,,284,126,4,4,http://127.0.0.1:3001/characters,2,0,0
+1705257493943,2,get by id,200,OK,Thread Group 1-24,text,true,,235,127,5,5,http://127.0.0.1:3001/character/1,2,0,0
+1705257493943,2,update,200,OK,Thread Group 1-26,text,true,,235,235,4,4,http://127.0.0.1:3001/character/1,2,0,0
+1705257493943,3,get all,200,OK,Thread Group 1-25,text,true,,284,126,4,4,http://127.0.0.1:3001/characters,3,0,0
+1705257493945,2,get all,200,OK,Thread Group 1-24,text,true,,284,126,3,3,http://127.0.0.1:3001/characters,2,0,0
+1705257493945,3,post,200,OK,Thread Group 1-26,text,true,,235,235,3,3,http://127.0.0.1:3001/character,3,0,0
+1705257493945,5,delete,200,OK,Thread Group 1-27,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,5,0,1
+1705257493949,2,get by id,200,OK,Thread Group 1-26,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257493950,2,update,200,OK,Thread Group 1-27,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257493952,2,get all,200,OK,Thread Group 1-26,text,true,,284,126,3,3,http://127.0.0.1:3001/characters,2,0,0
+1705257493953,2,post,200,OK,Thread Group 1-27,text,true,,235,235,2,2,http://127.0.0.1:3001/character,2,0,0
+1705257493955,2,get by id,200,OK,Thread Group 1-27,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257493954,4,delete,200,OK,Thread Group 1-28,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,4,0,1
+1705257493957,2,get all,200,OK,Thread Group 1-27,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257493958,1,update,200,OK,Thread Group 1-28,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,1,0,0
+1705257493959,2,post,200,OK,Thread Group 1-28,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257493961,2,get by id,200,OK,Thread Group 1-28,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257493963,2,get all,200,OK,Thread Group 1-28,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257493964,3,delete,200,OK,Thread Group 1-29,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257493968,2,update,200,OK,Thread Group 1-29,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257493970,1,post,200,OK,Thread Group 1-29,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257493972,1,get by id,200,OK,Thread Group 1-29,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257493973,2,get all,200,OK,Thread Group 1-29,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,2,0,0
+1705257493976,2,delete,200,OK,Thread Group 1-30,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257493979,2,update,200,OK,Thread Group 1-30,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257493981,2,post,200,OK,Thread Group 1-30,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257493983,2,get by id,200,OK,Thread Group 1-30,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257493984,2,delete,200,OK,Thread Group 1-31,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257493985,2,get all,200,OK,Thread Group 1-30,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257493986,2,update,200,OK,Thread Group 1-31,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257493988,2,post,200,OK,Thread Group 1-31,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257493990,2,get by id,200,OK,Thread Group 1-31,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257493992,2,get all,200,OK,Thread Group 1-31,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,2,0,0
+1705257493995,3,delete,200,OK,Thread Group 1-32,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257493999,2,update,200,OK,Thread Group 1-32,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494001,1,post,200,OK,Thread Group 1-32,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494003,1,get by id,200,OK,Thread Group 1-32,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,1,0,0
+1705257494005,2,get all,200,OK,Thread Group 1-32,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494004,4,delete,200,OK,Thread Group 1-33,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,4,0,1
+1705257494008,2,update,200,OK,Thread Group 1-33,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494011,1,post,200,OK,Thread Group 1-33,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494013,4,get by id,200,OK,Thread Group 1-33,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,4,0,0
+1705257494018,3,get all,200,OK,Thread Group 1-33,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,3,0,0
+1705257494016,6,delete,200,OK,Thread Group 1-34,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,6,0,2
+1705257494023,4,update,200,OK,Thread Group 1-34,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,4,0,0
+1705257494028,3,post,200,OK,Thread Group 1-34,text,true,,235,235,2,2,http://127.0.0.1:3001/character,3,0,0
+1705257494026,7,delete,200,OK,Thread Group 1-35,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,7,0,2
+1705257494032,2,get by id,200,OK,Thread Group 1-34,text,true,,235,127,3,3,http://127.0.0.1:3001/character/1,2,0,0
+1705257494033,3,update,200,OK,Thread Group 1-35,text,true,,235,235,3,3,http://127.0.0.1:3001/character/1,3,0,0
+1705257494034,3,get all,200,OK,Thread Group 1-34,text,true,,284,126,3,3,http://127.0.0.1:3001/characters,3,0,0
+1705257494034,5,delete,200,OK,Thread Group 1-36,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,5,0,1
+1705257494037,3,post,200,OK,Thread Group 1-35,text,true,,235,235,2,2,http://127.0.0.1:3001/character,3,0,0
+1705257494039,3,update,200,OK,Thread Group 1-36,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494041,3,get by id,200,OK,Thread Group 1-35,text,true,,235,127,3,3,http://127.0.0.1:3001/character/1,3,0,0
+1705257494043,1,post,200,OK,Thread Group 1-36,text,true,,235,235,3,3,http://127.0.0.1:3001/character,1,0,0
+1705257494044,3,get all,200,OK,Thread Group 1-35,text,true,,287,126,3,3,http://127.0.0.1:3001/characters,3,0,0
+1705257494044,4,get by id,200,OK,Thread Group 1-36,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,4,0,0
+1705257494044,5,delete,200,OK,Thread Group 1-37,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,5,0,1
+1705257494049,1,get all,200,OK,Thread Group 1-36,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494049,2,update,200,OK,Thread Group 1-37,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494051,2,post,200,OK,Thread Group 1-37,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494053,1,get by id,200,OK,Thread Group 1-37,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494055,2,get all,200,OK,Thread Group 1-37,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494056,4,delete,200,OK,Thread Group 1-38,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,4,0,1
+1705257494061,2,update,200,OK,Thread Group 1-38,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494063,3,post,200,OK,Thread Group 1-38,text,true,,235,235,2,2,http://127.0.0.1:3001/character,3,0,0
+1705257494066,2,get by id,200,OK,Thread Group 1-38,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494065,3,delete,200,OK,Thread Group 1-39,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494068,2,get all,200,OK,Thread Group 1-38,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494069,2,update,200,OK,Thread Group 1-39,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494071,2,post,200,OK,Thread Group 1-39,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494073,1,get by id,200,OK,Thread Group 1-39,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,1,0,0
+1705257494075,1,get all,200,OK,Thread Group 1-39,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494075,2,delete,200,OK,Thread Group 1-40,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494077,1,update,200,OK,Thread Group 1-40,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494079,1,post,200,OK,Thread Group 1-40,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494080,3,get by id,200,OK,Thread Group 1-40,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,3,0,0
+1705257494083,2,get all,200,OK,Thread Group 1-40,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494085,2,delete,200,OK,Thread Group 1-41,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494087,2,update,200,OK,Thread Group 1-41,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494089,1,post,200,OK,Thread Group 1-41,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494090,2,get by id,200,OK,Thread Group 1-41,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494092,1,get all,200,OK,Thread Group 1-41,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494095,2,delete,200,OK,Thread Group 1-42,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494097,2,update,200,OK,Thread Group 1-42,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494099,1,post,200,OK,Thread Group 1-42,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494100,1,get by id,200,OK,Thread Group 1-42,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494102,1,get all,200,OK,Thread Group 1-42,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494104,2,delete,200,OK,Thread Group 1-43,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494106,2,update,200,OK,Thread Group 1-43,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494109,2,post,200,OK,Thread Group 1-43,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494111,2,get by id,200,OK,Thread Group 1-43,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494113,2,get all,200,OK,Thread Group 1-43,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494115,3,delete,200,OK,Thread Group 1-44,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494118,2,update,200,OK,Thread Group 1-44,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494120,2,post,200,OK,Thread Group 1-44,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494122,1,get by id,200,OK,Thread Group 1-44,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494123,2,get all,200,OK,Thread Group 1-44,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494124,3,delete,200,OK,Thread Group 1-45,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494127,1,update,200,OK,Thread Group 1-45,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494128,2,post,200,OK,Thread Group 1-45,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494130,1,get by id,200,OK,Thread Group 1-45,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494131,1,get all,200,OK,Thread Group 1-45,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494135,3,delete,200,OK,Thread Group 1-46,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494138,2,update,200,OK,Thread Group 1-46,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494140,1,post,200,OK,Thread Group 1-46,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494142,2,get by id,200,OK,Thread Group 1-46,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494144,3,get all,200,OK,Thread Group 1-46,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,3,0,0
+1705257494145,5,delete,200,OK,Thread Group 1-47,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,5,0,1
+1705257494150,2,update,200,OK,Thread Group 1-47,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494153,2,post,200,OK,Thread Group 1-47,text,true,,235,235,2,2,http://127.0.0.1:3001/character,2,0,0
+1705257494155,2,get by id,200,OK,Thread Group 1-47,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494154,3,delete,200,OK,Thread Group 1-48,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494157,2,get all,200,OK,Thread Group 1-47,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494157,3,update,200,OK,Thread Group 1-48,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,3,0,0
+1705257494160,4,post,200,OK,Thread Group 1-48,text,true,,235,235,2,2,http://127.0.0.1:3001/character,4,0,0
+1705257494165,3,get by id,200,OK,Thread Group 1-48,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494165,5,delete,200,OK,Thread Group 1-49,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,5,0,2
+1705257494169,2,get all,200,OK,Thread Group 1-48,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494170,3,update,200,OK,Thread Group 1-49,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494173,2,post,200,OK,Thread Group 1-49,text,true,,235,235,2,2,http://127.0.0.1:3001/character,2,0,0
+1705257494176,2,get by id,200,OK,Thread Group 1-49,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494176,3,delete,200,OK,Thread Group 1-50,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494178,2,get all,200,OK,Thread Group 1-49,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494179,2,update,200,OK,Thread Group 1-50,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494182,2,post,200,OK,Thread Group 1-50,text,true,,235,235,2,2,http://127.0.0.1:3001/character,2,0,0
+1705257494184,3,get by id,200,OK,Thread Group 1-50,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494185,3,delete,200,OK,Thread Group 1-51,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494187,1,get all,200,OK,Thread Group 1-50,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494188,2,update,200,OK,Thread Group 1-51,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494190,2,post,200,OK,Thread Group 1-51,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494192,1,get by id,200,OK,Thread Group 1-51,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494194,1,get all,200,OK,Thread Group 1-51,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494195,3,delete,200,OK,Thread Group 1-52,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494198,3,update,200,OK,Thread Group 1-52,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,3,0,0
+1705257494201,2,post,200,OK,Thread Group 1-52,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494203,2,get by id,200,OK,Thread Group 1-52,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494205,2,get all,200,OK,Thread Group 1-52,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494206,2,delete,200,OK,Thread Group 1-53,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494208,1,update,200,OK,Thread Group 1-53,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494210,1,post,200,OK,Thread Group 1-53,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494211,1,get by id,200,OK,Thread Group 1-53,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494212,1,get all,200,OK,Thread Group 1-53,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494214,4,delete,200,OK,Thread Group 1-54,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,4,0,2
+1705257494218,3,update,200,OK,Thread Group 1-54,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,3,0,0
+1705257494221,2,post,200,OK,Thread Group 1-54,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494223,2,get by id,200,OK,Thread Group 1-54,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494225,2,get all,200,OK,Thread Group 1-54,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494224,3,delete,200,OK,Thread Group 1-55,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494227,2,update,200,OK,Thread Group 1-55,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494229,2,post,200,OK,Thread Group 1-55,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494231,2,get by id,200,OK,Thread Group 1-55,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494233,1,get all,200,OK,Thread Group 1-55,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494234,2,delete,200,OK,Thread Group 1-56,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494237,1,update,200,OK,Thread Group 1-56,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494238,1,post,200,OK,Thread Group 1-56,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494239,2,get by id,200,OK,Thread Group 1-56,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494241,2,get all,200,OK,Thread Group 1-56,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,2,0,0
+1705257494244,2,delete,200,OK,Thread Group 1-57,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494247,2,update,200,OK,Thread Group 1-57,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494249,2,post,200,OK,Thread Group 1-57,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494251,1,get by id,200,OK,Thread Group 1-57,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494253,1,get all,200,OK,Thread Group 1-57,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494254,3,delete,200,OK,Thread Group 1-58,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494257,1,update,200,OK,Thread Group 1-58,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494259,1,post,200,OK,Thread Group 1-58,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494260,1,get by id,200,OK,Thread Group 1-58,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494261,2,get all,200,OK,Thread Group 1-58,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,2,0,0
+1705257494266,2,delete,200,OK,Thread Group 1-59,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494268,2,update,200,OK,Thread Group 1-59,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494270,1,post,200,OK,Thread Group 1-59,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494271,1,get by id,200,OK,Thread Group 1-59,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494272,2,get all,200,OK,Thread Group 1-59,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494274,3,delete,200,OK,Thread Group 1-60,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494277,2,update,200,OK,Thread Group 1-60,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494280,2,post,200,OK,Thread Group 1-60,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494282,3,get by id,200,OK,Thread Group 1-60,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494286,3,get all,200,OK,Thread Group 1-60,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,3,0,0
+1705257494285,5,delete,200,OK,Thread Group 1-61,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,5,0,2
+1705257494290,2,update,200,OK,Thread Group 1-61,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494292,2,post,200,OK,Thread Group 1-61,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494294,1,get by id,200,OK,Thread Group 1-61,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,1,0,0
+1705257494295,2,get all,200,OK,Thread Group 1-61,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494295,2,delete,200,OK,Thread Group 1-62,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494298,1,update,200,OK,Thread Group 1-62,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494300,2,post,200,OK,Thread Group 1-62,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494302,2,get by id,200,OK,Thread Group 1-62,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494305,3,get all,200,OK,Thread Group 1-62,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,3,0,0
+1705257494305,4,delete,200,OK,Thread Group 1-63,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,4,0,1
+1705257494310,2,update,200,OK,Thread Group 1-63,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494312,2,post,200,OK,Thread Group 1-63,text,true,,235,235,2,2,http://127.0.0.1:3001/character,2,0,0
+1705257494315,3,get by id,200,OK,Thread Group 1-63,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494315,4,delete,200,OK,Thread Group 1-64,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,4,0,1
+1705257494319,1,get all,200,OK,Thread Group 1-63,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494319,2,update,200,OK,Thread Group 1-64,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494321,2,post,200,OK,Thread Group 1-64,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494323,2,get by id,200,OK,Thread Group 1-64,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494325,2,get all,200,OK,Thread Group 1-64,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494325,3,delete,200,OK,Thread Group 1-65,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494328,2,update,200,OK,Thread Group 1-65,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494331,2,post,200,OK,Thread Group 1-65,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494333,2,get by id,200,OK,Thread Group 1-65,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494335,2,get all,200,OK,Thread Group 1-65,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494335,3,delete,200,OK,Thread Group 1-66,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494338,2,update,200,OK,Thread Group 1-66,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494340,1,post,200,OK,Thread Group 1-66,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494342,1,get by id,200,OK,Thread Group 1-66,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494343,2,get all,200,OK,Thread Group 1-66,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494344,3,delete,200,OK,Thread Group 1-67,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494347,2,update,200,OK,Thread Group 1-67,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494349,2,post,200,OK,Thread Group 1-67,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494351,1,get by id,200,OK,Thread Group 1-67,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494353,2,get all,200,OK,Thread Group 1-67,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,2,0,0
+1705257494356,4,delete,200,OK,Thread Group 1-68,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,4,0,1
+1705257494360,4,update,200,OK,Thread Group 1-68,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,4,0,0
+1705257494364,3,post,200,OK,Thread Group 1-68,text,true,,235,235,2,2,http://127.0.0.1:3001/character,3,0,0
+1705257494368,2,get by id,200,OK,Thread Group 1-68,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494367,5,delete,200,OK,Thread Group 1-69,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,5,0,1
+1705257494371,2,get all,200,OK,Thread Group 1-68,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494373,3,update,200,OK,Thread Group 1-69,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494376,3,post,200,OK,Thread Group 1-69,text,true,,235,235,2,2,http://127.0.0.1:3001/character,3,0,0
+1705257494375,4,delete,200,OK,Thread Group 1-70,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,4,0,1
+1705257494379,2,update,200,OK,Thread Group 1-70,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494379,3,get by id,200,OK,Thread Group 1-69,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494382,1,post,200,OK,Thread Group 1-70,text,true,,235,235,2,2,http://127.0.0.1:3001/character,1,0,0
+1705257494382,2,get all,200,OK,Thread Group 1-69,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494384,1,get by id,200,OK,Thread Group 1-70,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,1,0,0
+1705257494386,1,get all,200,OK,Thread Group 1-70,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494385,3,delete,200,OK,Thread Group 1-71,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494388,1,update,200,OK,Thread Group 1-71,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494389,2,post,200,OK,Thread Group 1-71,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494391,1,get by id,200,OK,Thread Group 1-71,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494392,2,get all,200,OK,Thread Group 1-71,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494394,2,delete,200,OK,Thread Group 1-72,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494397,1,update,200,OK,Thread Group 1-72,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494399,1,post,200,OK,Thread Group 1-72,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494400,2,get by id,200,OK,Thread Group 1-72,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494402,1,get all,200,OK,Thread Group 1-72,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494405,3,delete,200,OK,Thread Group 1-73,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494408,2,update,200,OK,Thread Group 1-73,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494410,3,post,200,OK,Thread Group 1-73,text,true,,235,235,1,1,http://127.0.0.1:3001/character,3,0,0
+1705257494413,4,get by id,200,OK,Thread Group 1-73,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,4,0,0
+1705257494418,3,get all,200,OK,Thread Group 1-73,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,3,0,0
+1705257494417,5,delete,200,OK,Thread Group 1-74,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,5,0,1
+1705257494422,2,update,200,OK,Thread Group 1-74,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494424,2,post,200,OK,Thread Group 1-74,text,true,,235,235,2,2,http://127.0.0.1:3001/character,2,0,0
+1705257494424,3,delete,200,OK,Thread Group 1-75,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494426,2,get by id,200,OK,Thread Group 1-74,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494428,1,update,200,OK,Thread Group 1-75,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,1,0,0
+1705257494428,2,get all,200,OK,Thread Group 1-74,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494429,3,post,200,OK,Thread Group 1-75,text,true,,235,235,1,1,http://127.0.0.1:3001/character,3,0,0
+1705257494432,2,get by id,200,OK,Thread Group 1-75,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494434,4,get all,200,OK,Thread Group 1-75,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,4,0,0
+1705257494435,6,delete,200,OK,Thread Group 1-76,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,6,0,1
+1705257494442,3,update,200,OK,Thread Group 1-76,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494445,3,post,200,OK,Thread Group 1-76,text,true,,235,235,2,2,http://127.0.0.1:3001/character,3,0,0
+1705257494445,4,delete,200,OK,Thread Group 1-77,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,4,0,1
+1705257494448,4,get by id,200,OK,Thread Group 1-76,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,4,0,0
+1705257494449,3,update,200,OK,Thread Group 1-77,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494452,2,post,200,OK,Thread Group 1-77,text,true,,235,235,3,3,http://127.0.0.1:3001/character,2,0,0
+1705257494452,3,get all,200,OK,Thread Group 1-76,text,true,,287,126,3,3,http://127.0.0.1:3001/characters,3,0,0
+1705257494455,1,get by id,200,OK,Thread Group 1-77,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,1,0,0
+1705257494454,3,delete,200,OK,Thread Group 1-78,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494457,1,get all,200,OK,Thread Group 1-77,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494457,2,update,200,OK,Thread Group 1-78,text,true,,235,235,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494459,2,post,200,OK,Thread Group 1-78,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494462,1,get by id,200,OK,Thread Group 1-78,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494463,2,get all,200,OK,Thread Group 1-78,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494464,2,delete,200,OK,Thread Group 1-79,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494466,2,update,200,OK,Thread Group 1-79,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494468,2,post,200,OK,Thread Group 1-79,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494470,1,get by id,200,OK,Thread Group 1-79,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494472,1,get all,200,OK,Thread Group 1-79,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494475,3,delete,200,OK,Thread Group 1-80,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494479,1,update,200,OK,Thread Group 1-80,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494481,1,post,200,OK,Thread Group 1-80,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494482,2,get by id,200,OK,Thread Group 1-80,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494484,1,get all,200,OK,Thread Group 1-80,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,1,0,0
+1705257494483,3,delete,200,OK,Thread Group 1-81,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494486,1,update,200,OK,Thread Group 1-81,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494487,2,post,200,OK,Thread Group 1-81,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494489,1,get by id,200,OK,Thread Group 1-81,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494490,1,get all,200,OK,Thread Group 1-81,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494494,2,delete,200,OK,Thread Group 1-82,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494496,1,update,200,OK,Thread Group 1-82,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494497,2,post,200,OK,Thread Group 1-82,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494499,2,get by id,200,OK,Thread Group 1-82,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494501,1,get all,200,OK,Thread Group 1-82,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494504,3,delete,200,OK,Thread Group 1-83,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494507,1,update,200,OK,Thread Group 1-83,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494508,1,post,200,OK,Thread Group 1-83,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494510,1,get by id,200,OK,Thread Group 1-83,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494511,1,get all,200,OK,Thread Group 1-83,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494514,3,delete,200,OK,Thread Group 1-84,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,0
+1705257494517,1,update,200,OK,Thread Group 1-84,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494518,1,post,200,OK,Thread Group 1-84,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494520,1,get by id,200,OK,Thread Group 1-84,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494521,1,get all,200,OK,Thread Group 1-84,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494524,2,delete,200,OK,Thread Group 1-85,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494526,2,update,200,OK,Thread Group 1-85,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494528,1,post,200,OK,Thread Group 1-85,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494529,2,get by id,200,OK,Thread Group 1-85,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494531,1,get all,200,OK,Thread Group 1-85,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494534,3,delete,200,OK,Thread Group 1-86,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494537,2,update,200,OK,Thread Group 1-86,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494540,2,post,200,OK,Thread Group 1-86,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494543,2,get by id,200,OK,Thread Group 1-86,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494545,3,get all,200,OK,Thread Group 1-86,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,3,0,0
+1705257494546,3,delete,200,OK,Thread Group 1-87,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494549,2,update,200,OK,Thread Group 1-87,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494551,2,post,200,OK,Thread Group 1-87,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494553,2,get by id,200,OK,Thread Group 1-87,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494555,3,get all,200,OK,Thread Group 1-87,text,true,,284,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494554,4,delete,200,OK,Thread Group 1-88,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494558,2,update,200,OK,Thread Group 1-88,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494560,3,post,200,OK,Thread Group 1-88,text,true,,235,235,1,1,http://127.0.0.1:3001/character,3,0,0
+1705257494563,3,get by id,200,OK,Thread Group 1-88,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,3,0,0
+1705257494566,2,get all,200,OK,Thread Group 1-88,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494565,3,delete,200,OK,Thread Group 1-89,text,true,,249,192,2,2,http://127.0.0.1:3001/character/1,3,0,1
+1705257494568,2,update,200,OK,Thread Group 1-89,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494570,2,post,200,OK,Thread Group 1-89,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494572,2,get by id,200,OK,Thread Group 1-89,text,true,,235,127,2,2,http://127.0.0.1:3001/character/1,2,0,0
+1705257494574,2,get all,200,OK,Thread Group 1-89,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494574,2,delete,200,OK,Thread Group 1-90,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494577,1,update,200,OK,Thread Group 1-90,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494578,1,post,200,OK,Thread Group 1-90,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494580,1,get by id,200,OK,Thread Group 1-90,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494581,2,get all,200,OK,Thread Group 1-90,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,2,0,0
+1705257494585,3,delete,200,OK,Thread Group 1-91,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494589,1,update,200,OK,Thread Group 1-91,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494590,1,post,200,OK,Thread Group 1-91,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494591,1,get by id,200,OK,Thread Group 1-91,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494592,2,get all,200,OK,Thread Group 1-91,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494594,2,delete,200,OK,Thread Group 1-92,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494596,1,update,200,OK,Thread Group 1-92,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494597,2,post,200,OK,Thread Group 1-92,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494599,1,get by id,200,OK,Thread Group 1-92,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494600,1,get all,200,OK,Thread Group 1-92,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494604,3,delete,200,OK,Thread Group 1-93,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494607,1,update,200,OK,Thread Group 1-93,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494608,2,post,200,OK,Thread Group 1-93,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494610,1,get by id,200,OK,Thread Group 1-93,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494611,1,get all,200,OK,Thread Group 1-93,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494615,3,delete,200,OK,Thread Group 1-94,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494618,2,update,200,OK,Thread Group 1-94,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494620,1,post,200,OK,Thread Group 1-94,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494621,1,get by id,200,OK,Thread Group 1-94,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494622,2,get all,200,OK,Thread Group 1-94,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494624,3,delete,200,OK,Thread Group 1-95,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,0
+1705257494627,2,update,200,OK,Thread Group 1-95,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494629,1,post,200,OK,Thread Group 1-95,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494631,1,get by id,200,OK,Thread Group 1-95,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494632,1,get all,200,OK,Thread Group 1-95,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494634,2,delete,200,OK,Thread Group 1-96,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494637,1,update,200,OK,Thread Group 1-96,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494638,1,post,200,OK,Thread Group 1-96,text,true,,235,235,1,1,http://127.0.0.1:3001/character,1,0,0
+1705257494639,2,get by id,200,OK,Thread Group 1-96,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494641,1,get all,200,OK,Thread Group 1-96,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494644,2,delete,200,OK,Thread Group 1-97,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,2,0,1
+1705257494646,2,update,200,OK,Thread Group 1-97,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494648,2,post,200,OK,Thread Group 1-97,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494650,1,get by id,200,OK,Thread Group 1-97,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494652,1,get all,200,OK,Thread Group 1-97,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494653,3,delete,200,OK,Thread Group 1-98,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494656,2,update,200,OK,Thread Group 1-98,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494658,2,post,200,OK,Thread Group 1-98,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494660,2,get by id,200,OK,Thread Group 1-98,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494662,2,get all,200,OK,Thread Group 1-98,text,true,,287,126,2,2,http://127.0.0.1:3001/characters,2,0,0
+1705257494664,3,delete,200,OK,Thread Group 1-99,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494668,1,update,200,OK,Thread Group 1-99,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494669,2,post,200,OK,Thread Group 1-99,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494671,1,get by id,200,OK,Thread Group 1-99,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,1,0,0
+1705257494672,1,get all,200,OK,Thread Group 1-99,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,1,0,0
+1705257494675,3,delete,200,OK,Thread Group 1-100,text,true,,249,192,1,1,http://127.0.0.1:3001/character/1,3,0,1
+1705257494678,3,update,200,OK,Thread Group 1-100,text,true,,235,235,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494681,2,post,200,OK,Thread Group 1-100,text,true,,235,235,1,1,http://127.0.0.1:3001/character,2,0,0
+1705257494683,2,get by id,200,OK,Thread Group 1-100,text,true,,235,127,1,1,http://127.0.0.1:3001/character/1,2,0,0
+1705257494686,3,get all,200,OK,Thread Group 1-100,text,true,,287,126,1,1,http://127.0.0.1:3001/characters,2,0,0
